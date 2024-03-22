@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: 
     person("Huy", "Vuong", , "huy.vuong@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: String manipulation package that goes above and beyond what other package do in an exciting way
+Description: String manipulation package that goes above and beyond what other package do in an exciting way. More methods will be added in the future.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
