@@ -22,6 +22,8 @@ Match a fixed string (i.e. by comparing only bytes), using
 \code{\link[stringr:fixed]{fixed()}}. This is fast, but approximate. Generally,
 for matching human text, you'll want \code{\link[stringr:coll]{coll()}} which
 respects character matching rules for the specified locale.}
+
+\item{n}{maximum length of each element of the output}
 }
 \value{
 A character vector

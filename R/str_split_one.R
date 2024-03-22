@@ -1,6 +1,7 @@
 #' Split a string
 #'
 #' @param string A character vevtor with one element
+#' @param n maximum length of each element of the output
 #' @inheritParams stringr::str_replace
 #'
 #' @return A character vector
